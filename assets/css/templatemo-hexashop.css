@@ -2165,6 +2165,7 @@ contact Us Page
   border-radius: 0px;
   border: 1px solid #7a7a7a;
   box-shadow: none;
+  margin-bottom: 20px;
 }
 
 .contact-us form input::focus {
@@ -2177,7 +2178,7 @@ contact Us Page
   height: 140px;
   min-height: 120px;
   max-height: 200px;
-  margin-top: 30px;
+  margin-top: 5px;
   margin-bottom: 25px;
   line-height: 44px;
   padding: 0px 15px;
