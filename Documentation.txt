@@ -5,3 +5,5 @@ DevTech
 # shirt and pant page also 
 # tag line added
 
+##fabric
+# all fabric page link done
